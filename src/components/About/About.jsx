@@ -16,6 +16,8 @@ const About = () => {
           snippets will allow our users to turn a profit by listening to their
           favorite musicians and creators.
         </div>
+        <div className="about-under-text">One For All</div>
+        <button>Join Waitlist</button>
       </div>
     </section>
   );
