@@ -1,0 +1,23 @@
+.about-section {
+  margin-top: 50px;
+  width: 100%;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  align-items: center;
+}
+
+.about-title {
+  font-family: "Russo one";
+  font-size: 30px;
+}
+
+.about-subtext {
+  font-family: "Work Sans";
+  font-size: 15px;
+  text-align: center;
+  width: 900px;
+}

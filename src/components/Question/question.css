@@ -1,0 +1,31 @@
+.question-section {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.question-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 20px;
+}
+
+.question-text {
+  font-size: 30px;
+  font-family: "Russo One";
+}
+
+.question-subtext {
+  font-family: "Work Sans";
+  font-size: 15px;
+}
+
+.question-card {
+  width: 400px;
+  height: 350px;
+  background-color: rgb(223, 225, 226);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

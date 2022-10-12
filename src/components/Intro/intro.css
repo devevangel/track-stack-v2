@@ -1,0 +1,47 @@
+.intro-container {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.intro {
+  display: flex;
+  margin: 0 50px;
+  align-items: center;
+}
+
+.intro-section-text {
+  width: 50%;
+  height: 100%;
+  font-family: "Russo One";
+}
+
+.title {
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
+.subtitle {
+  margin-bottom: 40px;
+  font-family: "Work Sans";
+  font-size: 15px;
+}
+
+.picker {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 5px;
+}
+
+.cell {
+  width: 200px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #eee;
+  border-radius: 10px;
+  transform-origin: center bottom;
+}
