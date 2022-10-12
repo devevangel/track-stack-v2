@@ -8,7 +8,9 @@ const Question = () => {
       <div className="question-container">
         <div className="question-text">What Makes Us Different?</div>
         <div className="question-subtext">
-          An all in one music NFt platform for Artist and Users.
+          An all-in-one music NFT platform where artistes, record Labels and
+          collectors can collaborate, launch, trade, and communicate with each
+          other.
         </div>
         <div className="question-card">Animation here</div>
       </div>
