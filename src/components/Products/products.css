@@ -22,8 +22,9 @@
 }
 
 .product-card {
+  top: 30;
   height: 480px;
-  width: 500px;
+  width: 650px;
   position: sticky;
   border-radius: 15px;
   border: 1px solid #ccc;
