@@ -1,6 +1,8 @@
 import React, { useEffect } from "react";
 // import { gsap, Draggable, TweenLite, Linear, TimelineMax } from "gsap/all";
 
+import backgroundBlurLight from "../../assets/bg_blur_light.jpg";
+
 import "./intro.css";
 
 const Intro = () => {
@@ -21,6 +23,7 @@ const Intro = () => {
           <button>Join Waitlist</button>
         </div>
         <div id="picker" className="picker">
+          <div className="bg-blur_light"></div>
           <div className="cell">card 1</div>
           <div className="cell">card 2</div>
           <div className="cell">card 3</div>

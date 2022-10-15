@@ -1,0 +1,8 @@
+.button-text {
+  font-weight: 700px;
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+}

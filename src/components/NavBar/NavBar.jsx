@@ -1,6 +1,7 @@
 import React from "react";
 
-import Logo from "../../assets/logo.jpg";
+import Logo from "../../assets/logo_white.png";
+import Button from "../Button/Button";
 
 import "./navbar.css";
 
@@ -31,9 +32,8 @@ const NavBar = () => {
             </svg>
           </li>
           <li className="nav-links nav-text">
-            <button>Join Waitlist</button>
+            <Button text="Join Waitlist" />
           </li>
-          <li></li>
         </ul>
       </div>
     </nav>
