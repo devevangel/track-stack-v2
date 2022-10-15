@@ -4,6 +4,7 @@
   backdrop-filter: blur(50px);
   height: 70px;
   border-bottom: 1px solid rgb(187, 186, 186);
+  backdrop-filter: blur(50px);
 }
 
 .nav-items {
